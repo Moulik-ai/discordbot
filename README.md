@@ -148,7 +148,7 @@ This project helped me gain practical experience with:
 **Moulik Choudhary**
 
 - GitHub: https://github.com/Moulik-ai
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn: www.linkedin.com/in/moulik-choudhary-722a41384
 
 ---
 
